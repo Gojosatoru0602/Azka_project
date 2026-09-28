@@ -1,7 +1,7 @@
 pyrogram
 tgcrypto
 pyromod
-pytgcalls
+py-tgcalls
 python-dotenv
 tornado
 aiohttp
