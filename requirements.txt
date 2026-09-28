@@ -1,1 +1,10 @@
-
+pyrogram
+tgcrypto
+pyromod
+pytgcalls
+python-dotenv
+tornado
+aiohttp
+uvloop
+pymongo
+dnspython
